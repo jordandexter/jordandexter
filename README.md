@@ -1,1 +1,1 @@
-My name is Jordan. I'm an aspiring cloud developer.
+My name is Jordan. I make software.
